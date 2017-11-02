@@ -41,10 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FEIF_ARC_Reader.cs" />
     <Compile Include="GY_BinaryStream.cs" />
     <Compile Include="GY_Substream.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Re_Unpacker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
