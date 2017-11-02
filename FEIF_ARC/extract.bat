@@ -1,1 +1,0 @@
-FEIF_ARC extract %1
